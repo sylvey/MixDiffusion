@@ -26,7 +26,7 @@ To obtain train/test data, please follow Kaggle's rules and download from the of
 
 - Google Colab Pro+ (A100 GPU)
 - Python 3.10
-- Key dependencies: `torch`, `transformers`, `tqdm`, `scikit-learn`
+- Key dependencies: `torch`, `tqdm`, `scikit-learn`
 
 <!-- ## 📜 Citation
 
