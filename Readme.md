@@ -13,7 +13,7 @@ This project uses the [Human Protein Atlas Kaggle Dataset](https://www.kaggle.co
 
 To obtain train/test data, please follow Kaggle's rules and download from the official source. Generated synthetic images (~10k) are available at:
 
-🔗 [Google Drive / HuggingFace link here]
+🔗 [\[Google Drive link here\]](https://drive.google.com/drive/folders/1tSOZjYSljlmgKWhwMwY25soZMLnzRE-1?usp=sharing)
 
 ## 📊 Key Findings
 
