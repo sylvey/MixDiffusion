@@ -1,7 +1,7 @@
 # Protein Subcellular Localization with Diffusion-Augmented Training
 
 This repository explores the use of diffusion-generated synthetic data for improving multi-label classification of protein subcellular localization.
-🔗 [\[arXiv link here\]]([https://drive.google.com/drive/folders/1tSOZjYSljlmgKWhwMwY25soZMLnzRE-1?usp=sharing](https://arxiv.org/abs/2505.22926))
+🔗 [\[arXiv link here\]](https://arxiv.org/abs/2505.22926)
 
 ## 📂 Project Structure
 
